@@ -30,4 +30,4 @@ https://www.icloud.com/shortcuts/09d8a61fec7d4dcb88c16c2c0786b6b8
 
 这是一个 Gemini 版本的快捷指令，你可以自己部署反代服务器，从而通过Siri快速与Gemini对话！
 
-![支付宝收款码](./img/alipay.jpg)
+![支付宝收款码](./alipay.JPG)
